@@ -1,0 +1,14 @@
+/Users/quas/Desktop/lessons/oop/obj/Debug/net9.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quas/Desktop/lessons/oop/obj/Debug/net9.0/oop.AssemblyInfoInputs.cache
+/Users/quas/Desktop/lessons/oop/obj/Debug/net9.0/oop.AssemblyInfo.cs
+/Users/quas/Desktop/lessons/oop/obj/Debug/net9.0/oop.csproj.CoreCompileInputs.cache
+/Users/quas/Desktop/lessons/oop/bin/Debug/net9.0/oop
+/Users/quas/Desktop/lessons/oop/bin/Debug/net9.0/oop.deps.json
+/Users/quas/Desktop/lessons/oop/bin/Debug/net9.0/oop.runtimeconfig.json
+/Users/quas/Desktop/lessons/oop/bin/Debug/net9.0/oop.dll
+/Users/quas/Desktop/lessons/oop/bin/Debug/net9.0/oop.pdb
+/Users/quas/Desktop/lessons/oop/obj/Debug/net9.0/oop.dll
+/Users/quas/Desktop/lessons/oop/obj/Debug/net9.0/refint/oop.dll
+/Users/quas/Desktop/lessons/oop/obj/Debug/net9.0/oop.pdb
+/Users/quas/Desktop/lessons/oop/obj/Debug/net9.0/oop.genruntimeconfig.cache
+/Users/quas/Desktop/lessons/oop/obj/Debug/net9.0/ref/oop.dll
