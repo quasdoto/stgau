@@ -1,0 +1,15 @@
+/Users/quas/Documents/GitHub/stgau/oop/lab6/bin/Debug/net9.0/oop
+/Users/quas/Documents/GitHub/stgau/oop/lab6/bin/Debug/net9.0/oop.deps.json
+/Users/quas/Documents/GitHub/stgau/oop/lab6/bin/Debug/net9.0/oop.runtimeconfig.json
+/Users/quas/Documents/GitHub/stgau/oop/lab6/bin/Debug/net9.0/oop.dll
+/Users/quas/Documents/GitHub/stgau/oop/lab6/bin/Debug/net9.0/oop.pdb
+/Users/quas/Documents/GitHub/stgau/oop/lab6/obj/Debug/net9.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quas/Documents/GitHub/stgau/oop/lab6/obj/Debug/net9.0/oop.AssemblyInfoInputs.cache
+/Users/quas/Documents/GitHub/stgau/oop/lab6/obj/Debug/net9.0/oop.AssemblyInfo.cs
+/Users/quas/Documents/GitHub/stgau/oop/lab6/obj/Debug/net9.0/oop.csproj.CoreCompileInputs.cache
+/Users/quas/Documents/GitHub/stgau/oop/lab6/obj/Debug/net9.0/oop.sourcelink.json
+/Users/quas/Documents/GitHub/stgau/oop/lab6/obj/Debug/net9.0/oop.dll
+/Users/quas/Documents/GitHub/stgau/oop/lab6/obj/Debug/net9.0/refint/oop.dll
+/Users/quas/Documents/GitHub/stgau/oop/lab6/obj/Debug/net9.0/oop.pdb
+/Users/quas/Documents/GitHub/stgau/oop/lab6/obj/Debug/net9.0/oop.genruntimeconfig.cache
+/Users/quas/Documents/GitHub/stgau/oop/lab6/obj/Debug/net9.0/ref/oop.dll
